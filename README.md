@@ -7,6 +7,7 @@ A curated list of open government / public code initiatives. [Public money, publ
 
 ## Municipal / government code repos
 
+  * [Amsterdam, Netherlands](http://github.com/amsterdam)
   * [Austin, Texas, USA](https://github.com/cityofaustin)
   * [Barcelona, Spain](https://github.com/AjuntamentdeBarcelona)
   * [Boston, Massachusetts, USA](https://github.com/CityOfBoston)
@@ -32,8 +33,10 @@ A curated list of open government / public code initiatives. [Public money, publ
 
 ## Code for...
 
+  * [All](https://codeforall.org/)
   * [America](https://www.codeforamerica.org/)
   * [Germany](https://www.codefor.de/)
+  * [Romania](https://code4.ro/)
 
 ## Open Data
 
