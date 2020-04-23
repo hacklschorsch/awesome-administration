@@ -10,7 +10,7 @@ A curated list of awesome open government / public code initiatives. [Public mon
   * [Barcelona](https://github.com/AjuntamentdeBarcelona)
   * [Helsinki](https://github.com/City-of-Helsinki)
   * [Munich](https://github.com/it-at-m)
-  * [One-Gov](https://github.com/OneGov) [OneGov](https://www.onegov.ch/) is an association fostering the development and use of free software in switzerland
+  * [One-Gov](https://github.com/OneGov) is an association fostering the development and use of free software in switzerland
   * [Vernonia](https://github.com/CityOfVernonia)
 
 ## Cities that embrace free software
