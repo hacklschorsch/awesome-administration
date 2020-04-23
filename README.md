@@ -11,7 +11,7 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [Austin, Texas, USA](https://github.com/cityofaustin)
   * [Barcelona, Spain](https://github.com/AjuntamentdeBarcelona)
   * [Boston, Massachusetts, USA](https://github.com/CityOfBoston)
-  * [Chicago, Illinois, USA](https://github.com/Chicago), [Open-City](https://github.com/open-city)
+  * [Chicago, Illinois, USA](https://github.com/Chicago) / [Open-City](https://github.com/open-city)
   * [Heilbronn, Germany](https://github.com/opendata-heilbronn)
   * [Helsinki, Finland](https://github.com/City-of-Helsinki)
   * [Montréal, Canada](https://github.com/VilledeMontreal)
@@ -36,8 +36,12 @@ A curated list of open government / public code initiatives. [Public money, publ
 
   * [All](https://codeforall.org/)
   * [America](https://www.codeforamerica.org/)
+  * [Australia](https://codeforaustralia.org/)
+  * [Canada](https://codefor.ca/)
   * [Germany](https://www.codefor.de/)
+  * [Philly](https://codeforphilly.org/)
   * [Romania](https://code4.ro/)
+  * [Science & Society](https://codeforscience.org/)
 
 ## Open Data
 
