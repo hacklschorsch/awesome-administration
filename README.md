@@ -7,6 +7,7 @@ A curated list of awesome open government / public code initiatives. [Public mon
 
 ## Municipal government code repos
 
+  * [Barcelona](https://github.com/AjuntamentdeBarcelona)
   * [Helsinki](https://github.com/City-of-Helsinki)
   * [Munich](https://github.com/it-at-m)
 
