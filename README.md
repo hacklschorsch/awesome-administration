@@ -35,3 +35,10 @@ A curated list of awesome open government / public code initiatives. [Public mon
 
   * [awesome-opendata](https://github.com/DigitalCommonsLab/awesome-opendata) A curated list of awesome Open Data resources, tools and other awesomeness. (**TDB: is this really awesome?**)
   * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
