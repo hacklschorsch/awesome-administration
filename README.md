@@ -28,6 +28,11 @@ A curated list of awesome open government / public code initiatives. [Public mon
   * [ZoLa](https://github.com/NYCPlanning/labs-zola) - Interactive Map of NYC's Zoning and Land Use
 
 
+## Code for...
+
+  * [America](https://www.codeforamerica.org/)
+  * [Germany](https://www.codefor.de/)
+
 ## Open Data
 
   * [awesome-opendata](https://github.com/DigitalCommonsLab/awesome-opendata) A curated list of awesome Open Data resources, tools and other awesomeness. (**TDB: is this really awesome?**)
