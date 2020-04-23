@@ -20,16 +20,13 @@ A curated list of awesome open government / public code initiatives. [Public mon
   * [Vernonia, Oregon, USA](https://github.com/CityOfVernonia)
 
 
-## Cities that embrace free software
-
-  * [Barcelona](https://itsfoss.com/barcelona-open-source/)
-
 ## Software created by cities
 
   * [Bikespace.ca](https://www.bikespace.ca/): Tag, photograph, and report inadequate bike parking in the City of Toronto ([code](https://gitlab.com/bikespace/Bicycle-parking))
   * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
   * [potholes](https://github.com/CityOfVernonia/potholes.vernonia-or.gov) Vernonia's management of pot holes
   * [ZoLa](https://github.com/NYCPlanning/labs-zola) - Interactive Map of NYC's Zoning and Land Use
+
 
 ## Open Data
 
