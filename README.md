@@ -10,6 +10,10 @@ A curated list of awesome open government / public code initiatives. [Public mon
   * [Helsinki](https://github.com/City-of-Helsinki)
   * [Munich](https://github.com/it-at-m)
 
+## Cities that use FLOSS
+
+  * [Barcelona](https://itsfoss.com/barcelona-open-source/)
+
 ## Software
 
   * Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
