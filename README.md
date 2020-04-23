@@ -7,11 +7,18 @@ A curated list of awesome open government / public code initiatives. [Public mon
 
 ## Municipal / government code repos
 
-  * [Barcelona](https://github.com/AjuntamentdeBarcelona)
-  * [Helsinki](https://github.com/City-of-Helsinki)
-  * [Munich](https://github.com/it-at-m)
-  * [One-Gov](https://github.com/OneGov) is an association fostering the development and use of free software in switzerland
-  * [Vernonia](https://github.com/CityOfVernonia)
+  * [Austin, Texas, USA](https://github.com/cityofaustin)
+  * [Barcelona, Spain](https://github.com/AjuntamentdeBarcelona)
+  * [Boston, USA](https://github.com/CityOfBoston)
+  * [Helsinki, Finland](https://github.com/City-of-Helsinki)
+  * [Montréal, Canada](https://github.com/VilledeMontreal)
+  * [Munich, Germany](https://github.com/it-at-m)
+  * New York City, USA [NYC Planning](https://github.com/NYCPlanning)
+  * [One-Gov, Switzerland](https://github.com/OneGov) is an association fostering the development and use of free software in switzerland
+  * [Ottawa, Canada](https://github.com/cityofottawa)
+  * [Toronto, Canada](https://github.com/CityofToronto)
+  * [Vernonia, Oregon, USA](https://github.com/CityOfVernonia)
+
 
 ## Cities that embrace free software
 
@@ -19,8 +26,10 @@ A curated list of awesome open government / public code initiatives. [Public mon
 
 ## Software created by cities
 
+  * [Bikespace.ca](https://www.bikespace.ca/): Tag, photograph, and report inadequate bike parking in the City of Toronto ([code](https://gitlab.com/bikespace/Bicycle-parking))
   * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
   * [potholes](https://github.com/CityOfVernonia/potholes.vernonia-or.gov) Vernonia's management of pot holes
+  * [ZoLa](https://github.com/NYCPlanning/labs-zola) - Interactive Map of NYC's Zoning and Land Use
 
 ## Open Data
 
