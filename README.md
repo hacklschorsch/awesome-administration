@@ -16,9 +16,10 @@ A curated list of awesome open government / public code initiatives. [Public mon
 
   * [Barcelona](https://itsfoss.com/barcelona-open-source/)
 
-## Software
+## Software created by cities
 
-  * Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
+  * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
+  * [potholes](https://github.com/CityOfVernonia/potholes.vernonia-or.gov) Vernonia's management of pot holes
 
 ## Open Data
 
