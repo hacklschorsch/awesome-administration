@@ -9,7 +9,7 @@ A curated list of open government / public code initiatives. [Public money, publ
 
   * [Austin, Texas, USA](https://github.com/cityofaustin)
   * [Barcelona, Spain](https://github.com/AjuntamentdeBarcelona)
-  * [Boston, USA](https://github.com/CityOfBoston)
+  * [Boston, Massachusetts, USA](https://github.com/CityOfBoston)
   * [Helsinki, Finland](https://github.com/City-of-Helsinki)
   * [Montréal, Canada](https://github.com/VilledeMontreal)
   * [Munich, Germany](https://github.com/it-at-m)
