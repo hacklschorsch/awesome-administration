@@ -12,7 +12,7 @@ A curated list of awesome open government / public code initiatives. [Public mon
   * [Munich](https://github.com/it-at-m)
   * [Vernonia](https://github.com/CityOfVernonia)
 
-## Cities that use FLOSS
+## Cities that embrace free software
 
   * [Barcelona](https://itsfoss.com/barcelona-open-source/)
 
