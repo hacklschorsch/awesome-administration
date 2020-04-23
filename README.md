@@ -10,6 +10,7 @@ A curated list of awesome open government / public code initiatives. [Public mon
   * [Barcelona](https://github.com/AjuntamentdeBarcelona)
   * [Helsinki](https://github.com/City-of-Helsinki)
   * [Munich](https://github.com/it-at-m)
+  * [Vernonia](https://github.com/CityOfVernonia)
 
 ## Cities that use FLOSS
 
