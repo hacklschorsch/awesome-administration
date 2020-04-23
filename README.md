@@ -35,13 +35,7 @@ A curated list of open government / public code initiatives. [Public money, publ
 ## Code for...
 
   * [All](https://codeforall.org/)
-  * [America](https://www.codeforamerica.org/)
-  * [Australia](https://codeforaustralia.org/)
-  * [Canada](https://codefor.ca/)
-  * [Germany](https://www.codefor.de/)
-  * [NL](https://www.codefor.nl/)
-  * [Philly](https://codeforphilly.org/)
-  * [Romania](https://code4.ro/)
+    * [America](https://www.codeforamerica.org/) [Australia](https://codeforaustralia.org/) [Canada](https://codefor.ca/) [Germany](https://www.codefor.de/) [NL](https://www.codefor.nl/) [Philly](https://codeforphilly.org/) [Romania](https://code4.ro/)
   * [Science & Society](https://codeforscience.org/)
 
 ## Open Data
