@@ -12,7 +12,7 @@ A curated list of awesome open government initiatives. [Public money, public cod
 
 ## Software
 
-  * Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend) - [Backend](https://github.com/it-at-m/cove-backend)
+  * Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
 
 ## Open Data
 
