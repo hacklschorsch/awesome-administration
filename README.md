@@ -34,11 +34,13 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [Turku, Finland](https://github.com/city-of-turku)
   * [Vernonia, Oregon, USA](https://github.com/CityOfVernonia)
 
+## Meta
+
+  * [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
+  * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) searchable database indexes visual and geospatial solutions to critical urban problems
+
 
 ## Software created by cities
-
-  * Meta: [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) searchable database indexes visual and geospatial solutions to critical urban problems
-  * Meta: [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
 
   * [Bicycle-parking](https://gitlab.com/bikespace/Bicycle-parking): Tag, photograph, and report inadequate bike parking in the City of Toronto ([online here: bikespace.ca](https://www.bikespace.ca/)
   * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
