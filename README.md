@@ -38,9 +38,12 @@ A curated list of open government / public code initiatives. [Public money, publ
 
   * [Bikespace.ca](https://www.bikespace.ca/): Tag, photograph, and report inadequate bike parking in the City of Toronto ([code](https://gitlab.com/bikespace/Bicycle-parking))
   * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
+  * [covid19-chatbot](https://github.com/CityOfDetroit/covid19-chatbot) City of Detroit chatbot build to provide quick information to citizens
+  * [Hydrant-Dashboard](https://github.com/CityOfDetroit/hydrant-dashboard) helps track the conditions of all the hydrants across the city
   * [potholes](https://github.com/CityOfVernonia/potholes.vernonia-or.gov) Vernonia's management of pot holes
+  * [SimpliCity](https://github.com/cityofasheville/simplicity2) Award-Winning search engine for open city data [Article + Video on Citizen Times](https://eu.citizen-times.com/story/money/business/2015/10/14/asheville-tool-helps-find-city-data-won-award-simplicity/73888288/)
+  * [Where's Parking](https://github.com/cityofasheville/wheres-parking) Real time updates on available parking spots in parking decks for the City of Asheville
   * [ZoLa](https://github.com/NYCPlanning/labs-zola) - Interactive Map of NYC's Zoning and Land Use
-
 
 ## Code for...
 
