@@ -10,10 +10,13 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [Amsterdam, Netherlands](https://github.com/amsterdam)
   * [Austin, Texas, USA](https://github.com/cityofaustin)
   * [Barcelona, Spain](https://github.com/AjuntamentdeBarcelona)
+  * [Bloomington, Indiana, USA](https://github.com/City-of-Bloomington)
   * [Boston, Massachusetts, USA](https://github.com/CityOfBoston)
   * [Chicago, Illinois, USA](https://github.com/Chicago) / [Open-City](https://github.com/open-city)
   * [Heilbronn, Germany](https://github.com/opendata-heilbronn)
   * [Helsinki, Finland](https://github.com/City-of-Helsinki)
+  * [Kobe, Japan](https://github.com/city-of-kobe)
+  * [Melbourne, Australia](https://github.com/City-of-Melbourne/)
   * [Montréal, Canada](https://github.com/VilledeMontreal)
   * [Munich, Germany](https://github.com/it-at-m)
   * New York City, USA: [NYC Planning](https://github.com/NYCPlanning)
@@ -21,6 +24,7 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [Ottawa, Canada](https://github.com/cityofottawa)
   * [San Francisco, California, USA](https://github.com/SFMOCI)
   * [Toronto, Canada](https://github.com/CityofToronto)
+  * [Turku, Finland](https://github.com/city-of-turku)
   * [Vernonia, Oregon, USA](https://github.com/CityOfVernonia)
 
 
