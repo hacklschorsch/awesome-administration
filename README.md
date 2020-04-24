@@ -25,6 +25,7 @@ A curated list of open government / public code initiatives. [Public money, publ
   * New York City, USA: [NYC Planning](https://github.com/NYCPlanning)
   * [One-Gov, Switzerland](https://github.com/OneGov) is an association fostering the development and use of free software in switzerland
   * [Ottawa, Canada](https://github.com/cityofottawa)
+  * [Philadelphia, Pennsylvania, USA](https://github.com/CityOfPhiladelphia)
   * [San Francisco, California, USA](https://github.com/SFMOCI)
   * [Toronto, Canada](https://github.com/CityofToronto)
   * [Turku, Finland](https://github.com/city-of-turku)
