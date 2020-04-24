@@ -36,7 +36,7 @@ A curated list of open government / public code initiatives. [Public money, publ
 
 ## Software created by cities
 
-  * [Bikespace.ca](https://www.bikespace.ca/): Tag, photograph, and report inadequate bike parking in the City of Toronto ([code](https://gitlab.com/bikespace/Bicycle-parking))
+  * [Bicycle-parking](https://gitlab.com/bikespace/Bicycle-parking): Tag, photograph, and report inadequate bike parking in the City of Toronto ([online here: bikespace.ca](https://www.bikespace.ca/)
   * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
   * [covid19-chatbot](https://github.com/CityOfDetroit/covid19-chatbot) City of Detroit chatbot build to provide quick information to citizens
   * [Hydrant-Dashboard](https://github.com/CityOfDetroit/hydrant-dashboard) helps track the conditions of all the hydrants across the city
