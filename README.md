@@ -4,6 +4,10 @@ A curated list of open government / public code initiatives. [Public money, publ
 
 *Your contributions are always welcome!*
 
+## Meta
+
+  * [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
+  * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) searchable database indexes visual and geospatial solutions to critical urban problems
 
 ## Municipal / government code repos
 
@@ -33,11 +37,6 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [Toronto, Canada](https://github.com/CityofToronto)
   * [Turku, Finland](https://github.com/city-of-turku)
   * [Vernonia, Oregon, USA](https://github.com/CityOfVernonia)
-
-## Meta
-
-  * [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
-  * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) searchable database indexes visual and geospatial solutions to critical urban problems
 
 
 ## Examples: Software created by cities
