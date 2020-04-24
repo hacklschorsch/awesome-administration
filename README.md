@@ -21,6 +21,7 @@ A curated list of open government / public code initiatives. [Public money, publ
   * Jena, Germany: [Offenes Jena](https://github.com/OffenesJena)
   * [Kobe, Japan](https://github.com/city-of-kobe)
   * [Los Angeles, California, USA](https://github.com/CityOfLosAngeles)
+  * [Louisville, Jefferson County, USA](https://github.com/LouisvilleMetro)
   * [Melbourne, Australia](https://github.com/City-of-Melbourne/)
   * [Montréal, Canada](https://github.com/VilledeMontreal)
   * [Munich, Germany](https://github.com/it-at-m)
@@ -51,7 +52,7 @@ A curated list of open government / public code initiatives. [Public money, publ
 ## Code for...
 
   * [All](https://codeforall.org/)
-    * [America](https://www.codeforamerica.org/) [Australia](https://codeforaustralia.org/) [Canada](https://codefor.ca/) [Germany](https://www.codefor.de/) [NL](https://www.codefor.nl/) [Philly](https://codeforphilly.org/) [Romania](https://code4.ro/) ...
+    * [America](https://www.codeforamerica.org/) [Australia](https://codeforaustralia.org/) [Canada](https://codefor.ca/) [Germany](https://www.codefor.de/) [NL](https://www.codefor.nl/) [New Orleans](https://github.com/codefornola) [Philly](https://codeforphilly.org/) [Romania](https://code4.ro/) ...
     * [World map with full list here](https://codeforall.org/members)
   * [Science & Society](https://codeforscience.org/)
 
