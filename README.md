@@ -40,7 +40,7 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) searchable database indexes visual and geospatial solutions to critical urban problems
 
 
-## Software created by cities
+## Examples: Software created by cities
 
   * [Bicycle-parking](https://gitlab.com/bikespace/Bicycle-parking): Tag, photograph, and report inadequate bike parking in the City of Toronto ([online here: bikespace.ca](https://www.bikespace.ca/)
   * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
