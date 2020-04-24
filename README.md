@@ -7,7 +7,7 @@ A curated list of open government / public code initiatives. [Public money, publ
 ## Meta
 
   * [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
-  * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) searchable database indexes visual and geospatial solutions to critical urban problems
+  * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) Searchable database for visual and geospatial solutions to critical urban problems
 
 ## Municipal / government code repos
 
