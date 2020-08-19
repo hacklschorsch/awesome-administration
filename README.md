@@ -1,4 +1,4 @@
-# awesome-administration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-administration [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of open government / public code initiatives. [Public money, public code](https://publiccode.eu/)!
 
