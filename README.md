@@ -62,6 +62,8 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [awesome-opendata](https://github.com/DigitalCommonsLab/awesome-opendata) A curated list of awesome Open Data resources, tools and other awesomeness. (**TDB: is this really awesome?**)
   * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
+## Related Awesome Lists
+  * [A curated list of resources on egovernment in Germany](https://github.com/codedust/awesome-egov-de)
 
 ## License
 
