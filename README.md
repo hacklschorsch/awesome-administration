@@ -1,8 +1,8 @@
 # awesome-administration [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of open government / public code initiatives. [Public money, public code](https://publiccode.eu/)!
+A curated list of open government / [public code](https://publiccode.eu/) initiatives.
 
-*Your contributions are always welcome!*
+*Contributions welcome!*
 
 ## Municipal / government code repos
 
@@ -49,6 +49,7 @@ A curated list of open government / public code initiatives. [Public money, publ
 
   * [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
   * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) Searchable database for visual and geospatial solutions to critical urban problems
+  *  [Public money, public code](https://publiccode.eu/)
 
 ## Code for...
 
