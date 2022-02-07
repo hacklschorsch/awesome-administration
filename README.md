@@ -4,11 +4,6 @@ A curated list of open government / public code initiatives. [Public money, publ
 
 *Your contributions are always welcome!*
 
-## Meta
-
-  * [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
-  * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) Searchable database for visual and geospatial solutions to critical urban problems
-
 ## Municipal / government code repos
 
   * [Asheville, North Carolina, USA](https://github.com/cityofasheville)
@@ -49,6 +44,11 @@ A curated list of open government / public code initiatives. [Public money, publ
   * [SimpliCity](https://github.com/cityofasheville/simplicity2) Award-Winning search engine for open city data [Article + Video on Citizen Times](https://eu.citizen-times.com/story/money/business/2015/10/14/asheville-tool-helps-find-city-data-won-award-simplicity/73888288/)
   * [Where's Parking](https://github.com/cityofasheville/wheres-parking) Real time updates on available parking spots in parking decks for the City of Asheville
   * [ZoLa](https://github.com/NYCPlanning/labs-zola) - Interactive Map of NYC's Zoning and Land Use
+
+## Meta
+
+  * [A Catalog of Civic Data Use Cases](https://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723) How can data and analytics be used to enhance city operations?
+  * [Data-Smart City Solutions Search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search) Searchable database for visual and geospatial solutions to critical urban problems
 
 ## Code for...
 
