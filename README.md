@@ -4,6 +4,8 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
 
 *Contributions welcome!*
 
+[Search below repos with Google Programmable Search](https://cse.google.com/cse?cx=5dc5e732fff30fda7)
+
 ## Municipal / government code repos
 
   * [Asheville, North Carolina, USA](https://github.com/cityofasheville)
