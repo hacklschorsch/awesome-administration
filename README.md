@@ -31,6 +31,7 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
   * [Ottawa, Canada](https://github.com/cityofottawa)
   * [Philadelphia, Pennsylvania, USA](https://github.com/CityOfPhiladelphia)
   * [San Francisco, California, USA](https://github.com/SFMOCI)
+  * [Sault Ste. Marie, Canada](https://github.com/cityssm)
   * [Toronto, Canada](https://github.com/CityofToronto)
   * [Turku, Finland](https://github.com/city-of-turku)
   * [Vernonia, Oregon, USA](https://github.com/CityOfVernonia)
