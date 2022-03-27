@@ -63,7 +63,7 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
 
 ## Open Data
 
-  * [awesome-opendata](https://github.com/DigitalCommonsLab/awesome-opendata) A curated list of awesome Open Data resources, tools and other awesomeness. (**TDB: is this really awesome?**)
+  * [awesome-opendata](https://github.com/DigitalCommonsLab/awesome-opendata) A curated list of awesome Open Data resources, tools and other awesomeness.
   * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Related Awesome Lists
