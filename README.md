@@ -9,6 +9,9 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
 ## Government initiatives
 
   * [LaSuite](https://lasuite.numerique.gouv.fr/) is an open and sovereign workspace for government agents. Several its products have been built in collaboration with the Dutch and German governments.
+    * [Meet](https://github.com/suitenumerique/meet) "the video conferencing solution that allows you to host online meetings with confidence and security."
+    * [Docs](https://github.com/suitenumerique/docs) "the collaborative text editor that prioritizes content over formatting."
+    * [Grist](https://lasuite.numerique.gouv.fr/produits/grist) "the collaborative spreadsheet that helps you structure your databases. Based on [grist-core](https://github.com/gristlabs/grist-core)."
   * [ZenDis](https://www.zendis.de/) is a publicly held company in Germany promoting open source software in public institutions.
     * [OpenDesk](https://www.opendesk.eu) is an open office suite tailored to use in the government.
     * [OpenCode](https://opencode.de/en) "Making Public Administration digital together" i.a. with a [public GitLab instance](https://gitlab.opencode.de/explore/)
