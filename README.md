@@ -6,7 +6,11 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
 
 [Search below repos with Google Programmable Search](https://cse.google.com/cse?cx=5dc5e732fff30fda7)
 
-## Municipal / government code repos
+## Government initiatives
+
+  * [LaSuite](https://lasuite.numerique.gouv.fr/) is an open and sovereign workspace for government agents. Several its products have been built in collaboration with the Dutch and German governments.
+
+## Municipal code repos
 
   * [Asheville, North Carolina, USA](https://github.com/cityofasheville)
   * [Amsterdam, Netherlands](https://github.com/amsterdam)
@@ -43,6 +47,7 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
   * COVe: Munich's COVe App for managing Corona patients: [Frontend](https://github.com/it-at-m/cove-frontend), [Backend](https://github.com/it-at-m/cove-backend)
   * [covid19-chatbot](https://github.com/CityOfDetroit/covid19-chatbot) City of Detroit chatbot build to provide quick information to citizens
   * [Hydrant-Dashboard](https://github.com/CityOfDetroit/hydrant-dashboard) helps track the conditions of all the hydrants across the city
+  * [Docs](https://lasuite.numerique.gouv.fr/produits/docs) is a real-time collaborative word processor
   * [potholes](https://github.com/CityOfVernonia/potholes.vernonia-or.gov) Vernonia's management of pot holes
   * [SimpliCity](https://github.com/cityofasheville/simplicity2) Award-Winning search engine for open city data [Article + Video on Citizen Times](https://eu.citizen-times.com/story/money/business/2015/10/14/asheville-tool-helps-find-city-data-won-award-simplicity/73888288/)
   * [Where's Parking](https://github.com/cityofasheville/wheres-parking) Real time updates on available parking spots in parking decks for the City of Asheville
