@@ -8,7 +8,7 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
 
 ## Government initiatives
 
-  * [LaSuite](https://lasuite.numerique.gouv.fr/) is an open and sovereign workspace for government agents. Several its products have been built in collaboration with the Dutch and German governments.
+  * [LaSuite](https://lasuite.numerique.gouv.fr/) is a French initiative for to build an open and sovereign workspace for government agents. Several of its products have been built in collaboration with the Dutch and German governments. For example:
     * [Meet](https://github.com/suitenumerique/meet) "the video conferencing solution that allows you to host online meetings with confidence and security."
     * [Docs](https://github.com/suitenumerique/docs) "the collaborative text editor that prioritizes content over formatting."
     * [Grist](https://lasuite.numerique.gouv.fr/produits/grist) "the collaborative spreadsheet that helps you structure your databases. Based on [grist-core](https://github.com/gristlabs/grist-core)."
