@@ -63,7 +63,7 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
 
   * [All](https://codeforall.org/)
     * [America](https://www.codeforamerica.org/) [Australia](https://codeforaustralia.org/) [Canada](https://codefor.ca/) [Germany](https://www.codefor.de/) [NL](https://www.codefor.nl/) [New Orleans](https://github.com/codefornola) [Philly](https://codeforphilly.org/) [Romania](https://code4.ro/) ...
-    * [World map with full list here](https://codeforall.org/members)
+    * [World map with full list here](https://codeforall.org/our-global-network)
   * [Science & Society](https://codeforscience.org/)
 
 ## Open Data
