@@ -6,7 +6,7 @@ A curated list of open government / [public code](https://publiccode.eu/) initia
 
 [Search below repos with Google Programmable Search](https://cse.google.com/cse?cx=5dc5e732fff30fda7)
 
-## Government initiatives
+## Nation/State level initiatives
 
   * [LaSuite](https://lasuite.numerique.gouv.fr/) is a French initiative for to build an open and sovereign workspace for government agents. Several of its products have been built in collaboration with the Dutch and German governments. For example:
     * [Meet](https://github.com/suitenumerique/meet) "the video conferencing solution that allows you to host online meetings with confidence and security."
